@@ -10,13 +10,13 @@
 
 ## Tem mais!!!
 
-🎓 **Formação:** redes de computadores pelo Cento Universitário Una.
-💼 **Profissão:** cloud Engineer na Tripla.  
-🌱 **Atualmente Aprendendo:** Node.js e Python.
-💬 **Pergunte-me sobre:** Clouds Publicas e Privadas, Virtualizaçao, Storages, Sistemas operacionais e datacerte em geral.  
-📫 **Como me encontrar:** 
-      **Email:** wdavinsin@gmail.com
-      **LinkedIn:** https://www.linkedin.com/in/wdavinsin
+🎓 **Formação:** [Seu Curso] pela [Sua Universidade]  
+💼 **Profissão:** [Sua Profissão] na [Sua Empresa]  
+🌱 **Atualmente Aprendendo:** [Tecnologias ou Habilidades que está aprendendo]  
+💬 **Pergunte-me sobre:** [Áreas de Conhecimento]  
+📫 **Como me encontrar:**  
+        **Email:** wdavinsin@gmail.com  
+        **LinkedIn:** https://www.linkedin.com/in/wdavinsin  
 
 ## 🚀 Minhas Habilidades
 - **Linguagens de Programação:**
