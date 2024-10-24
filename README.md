@@ -10,7 +10,6 @@
 
 ## Tem mais!!!
 
-
 🎓 **Formação:** redes de computadores pelo Cento Universitário Una.
 💼 **Profissão:** cloud Engineer na Tripla.  
 🌱 **Atualmente Aprendendo:** Node.js e Python.
