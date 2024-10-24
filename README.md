@@ -3,12 +3,16 @@
 ## Sobre Mim
 
 🥋 A black belt guy
+
 🏍️ A motorclicle guy
+
 🎙️ A PodCaster guy
+
 🎙️ A DevOps guy
+
 😊 A good guy!
 
-## Tem mais
+## Tem mais!!!
 
 
 🎓 **Formação:** redes de computadores pelo Cento Universitário Una  
