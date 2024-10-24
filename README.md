@@ -7,7 +7,7 @@
 - A PodCaster guy.
 - A DevOps guy.
 - A good guy!
-- 
+
 🎓 **Formação:** redes de computadores pelo Cento Universitário Una  
 💼 **Profissão:** cloud Engineer  /  na Tripla  
 🌱 **Atualmente Aprendendo:** Node.js e Python.
