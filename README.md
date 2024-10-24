@@ -2,11 +2,14 @@
 
 ## Sobre Mim
 
-- A black belt guy.
-- A motorclicle guy.
-- A PodCaster guy.
-- A DevOps guy.
-- A good guy!
+🥋 A black belt guy.
+🏍️ A motorclicle guy.
+🎙️ A PodCaster guy.
+🎙️ A DevOps guy.
+😊 A good guy!
+
+## Tem mais
+
 
 🎓 **Formação:** redes de computadores pelo Cento Universitário Una  
 💼 **Profissão:** cloud Engineer  /  na Tripla  
