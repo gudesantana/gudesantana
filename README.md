@@ -30,7 +30,7 @@
 
 ## 📫 Contato
 - **Email:** wdavinsin@gmail.com
-- **LinkedIn:** [Seu LinkedIn](https://www.linkedin.com/in/wdavinsin/)
+- **LinkedIn:** https://www.linkedin.com/in/wdavinsin
 
 ---
 
