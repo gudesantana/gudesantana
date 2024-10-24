@@ -2,10 +2,10 @@
 
 ## Sobre Mim
 
-🥋 A black belt guy.
-🏍️ A motorclicle guy.
-🎙️ A PodCaster guy.
-🎙️ A DevOps guy.
+🥋 A black belt guy
+🏍️ A motorclicle guy
+🎙️ A PodCaster guy
+🎙️ A DevOps guy
 😊 A good guy!
 
 ## Tem mais
