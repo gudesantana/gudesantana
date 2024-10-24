@@ -1,16 +1,12 @@
-## 👋 Olá, eu sou [Gude Santana]!
+## 👋 Olá, eu sou Gude Santana!
 
 ## Sobre Mim
 
-🥋 A black belt guy
-
-🏍️ A motorclicle guy
-
-🎙️ A PodCaster guy
-
-🎙️ A DevOps guy
-
-😊 A good guy!
+- 🥋 A black belt guy.
+- 🏍️ A motorcycle guy.
+- 🎙️ A PodCaster guy.
+- ⚙️ A DevOps guy.
+- 😊 A good guy!
 
 ## Tem mais!!!
 
